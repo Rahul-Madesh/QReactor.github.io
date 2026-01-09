@@ -17,8 +17,6 @@ HTML5 – Structure of the app
 CSS3 – Styling and layout
 JavaScript (Vanilla JS) – Logic and QR generation
 
-📂 Project Structure
-
  📁 Project Structure
 
 `qr-code-generator / index.html | style.css | script.js | README.md`
