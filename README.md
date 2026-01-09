@@ -25,3 +25,4 @@ JavaScript (Vanilla JS) – Logic and QR generation
   ├── style.css
   ├── script.js
   └── README.md
+  
